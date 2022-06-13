@@ -1,9 +1,9 @@
 import requests
 
 from colorama import Fore, init
-
+import os
 init()
-
+os.system("clear")
 v = Fore.LIGHTGREEN_EX
 
 r = Fore.LIGHTRED_EX
